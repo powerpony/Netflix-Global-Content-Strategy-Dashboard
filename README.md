@@ -14,7 +14,6 @@ This project explores global trends using a cleaned and normalized version of Ne
 - Jupyter Notebook: For exploration and normalization  
 - GitHub: For documentation and version control
 
----
 
 ## Key Insights
 
@@ -24,7 +23,6 @@ This project explores global trends using a cleaned and normalized version of Ne
 -  TV-MA and TV-14 ratings account for over 50% of all content — indicating a strategy focused on mature and older teen audiences.
 -  Titles span 87 countries, with significant content contributions from India, the UK, Canada, and South Korea — supporting regional production and localization.
 
----
 
 ## Data Cleaning Process
 
@@ -33,7 +31,6 @@ This project explores global trends using a cleaned and normalized version of Ne
 - Standardized naming (e.g., “West Germany” → “Germany”, “Soviet Union” → “Russia”)  
 - Final cleaned dataset saved as netflix_normalized.csv
 
----
 
 ## Files Included
 
@@ -45,21 +42,18 @@ This project explores global trends using a cleaned and normalized version of Ne
 | Netflix Global Content Strategy Dashboard.twbx | Tableau packaged workbook |
 | README.md | Project overview and insights |
 
----
 
 ## Live Dashboard
 
 Link: [View on Tableau Public](https://public.tableau.com/app/profile/divya.kalaichelvan/viz/NetflixGlobalContentStrategyDashboard/Dashboard1)
 
----
 
 ## Author
 
 Divya Kalaichelvan  
 Aspiring data analyst | CS student | Driven by storytelling through data
 
----
 
 ## Updates
 
-- Project may be updated with extended analyses (e.g., clustering genres or recommendation systems)
+- Project may be updated with extended analyses (e.g clustering genres or recommendation systems)
