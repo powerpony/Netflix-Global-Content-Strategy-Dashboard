@@ -34,7 +34,7 @@ This ensures the platform caters to every age from households and younger viewer
 ## Data Storytelling Summary
 
 Over the last decade, Netflix’s content strategy has mirrored its growth as a global OTT streaming service. 
-From 2008 to 2019, Netflix aggressively expanded its collection by gaining acquistion and producing its own shows,peaking just before the COVID-19 pandemic disrupted production pipelines worldwide. 
+From 2008 to 2019, Netflix aggressively expanded its collection through acquisitions and producing its own shows,peaking just before the COVID-19 pandemic disrupted production pipelines worldwide. 
 In response, Netflix increased its investment in high-retention formats like TV Shows, which grew rapidly in number after 2017, even as Movies continued to dominate in overall volume.
 
 Simultaneously, Netflix focused on mature content, with TV-MA and TV-14 dominating ratings likely aiming to attract and retain adult audiences. 
